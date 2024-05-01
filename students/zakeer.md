@@ -4,4 +4,4 @@
 - location: Guntur, AP, India - 522001
 - Designation: UI Engineer
 - Company: SAP Labs
-- Skills: HTML, CSS and Javascript
+- Skills: HTML, CSS, Javascript, Python, Flask and Django
