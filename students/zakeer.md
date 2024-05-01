@@ -1,4 +1,4 @@
 # Zakeer Hussain Syed
 
 - email: zakeer579@gmail.com
-- location: Guntur
+- location: Guntur, AP, India - 522001
