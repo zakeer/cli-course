@@ -29,5 +29,10 @@ git add .
 git commit -m "<MESSAGE IN DOUBLE QUOTES>"
 ```
 
+## Push changes to REMOTE (Local commits -> Online Repo)
+```bash
+git push
+```
+
 
 
