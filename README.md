@@ -16,7 +16,18 @@ touch hussain.md
 nano hussain.md
 ```
 
-- Save the file (Commit the File)
+- Add changes to staging Area
+```bash
+# add file to staging are
+git add courses/html
+
+git add . 
+```
+
+## Commit with message (by passing with `-m` flag/option)
+```bash
+git commit -m "<MESSAGE IN DOUBLE QUOTES>"
+```
 
 
 
