@@ -1,3 +1,4 @@
+# Inrto to Command Line Tools (CLI)
 # Intro to Command Line Tools (CLI)
 
 For this course, we are using different tools
@@ -6,7 +7,7 @@ For this course, we are using different tools
 3. Online REPO VSCode Editor
 
 
-## Add new file to Repo (Project)
+##  create new file to Repo (Project)
 ```bash
 touch hussain.md
 ```
