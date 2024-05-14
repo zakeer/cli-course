@@ -1,2 +1,2 @@
-Full Name = Rahaman
-Area = gnt
+# Rahaman
+- Area: Guntur
