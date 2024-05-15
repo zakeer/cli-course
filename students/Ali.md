@@ -1,4 +1,3 @@
 # Shaik Mohammed Ali
 
-- Email: mdalishaik@gmail.com
-- Skills: JavaScript
+- I started learning CLI and Git
