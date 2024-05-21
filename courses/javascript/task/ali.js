@@ -1,10 +1,12 @@
-var firstName = "Shaik Mohammad";
+var firstName = "Shaik";
 var middleName = "Mohammad";
 var lastName = "Ali";
+var designation = "Programmer";
+var company = "Cognizant Technologies PVT LTD";
+var salary = 10000;
+var born = "Kadapa";
+var broughtUp = "Hyderabad";
 
-var fullName = firstname + " " + middleName + " " + lastname;
-var basicSkills = "HTML, CSS, JS";
-var address_location = "Hyderabad";
+var out = `Hello EveryOne, My name is ${firstName} ${middleName} ${lastName}, I Born in ${born} and Brought Up in ${broughtUp} and working as ${designation} at ${company}`
 
-console.log(fullName + "from" + address_location);
-console.log(skills);
+console.log(out);
