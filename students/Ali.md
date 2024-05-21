@@ -1,3 +1,9 @@
 # Shaik Mohammed Ali
 
-- I started learning CLI and Git
+
+ - Email: mdalishaik@gmail.com
+ - Skills: HTML,CSS,JavaScript,JAVA,  WordPress, Corel draw etc etc..
+
+```
+Currently Learning Github Concepts 
+```
