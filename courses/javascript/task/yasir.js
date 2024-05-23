@@ -19,6 +19,9 @@ console.log (`The division of two variables is ${x/y}`) // Division
 console.log (`The modulus of two variables is ${x%y}`) // Modulus
 
 // Comparision operators
-typeof 10==10
-typeof "yasir"=="yasir" 
+a= typeof 10==10
+b= typeof "yasir"=="yasir" 
 //It will be false. because, typeof"yasir" is string on the left side. on the right side it is "yasir". so, it is false.
+
+console.log(`It is ${a}`)
+console.log(`It is ${b}`)
