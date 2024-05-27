@@ -1,4 +1,4 @@
-# Intro to command line tool (CLI)
+# CLI Intro
 
 For this course, we are using different tools
 1. Codespaces
