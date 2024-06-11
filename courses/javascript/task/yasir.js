@@ -1,4 +1,4 @@
-var firstname = "Yasir";
+/*var firstname = "Yasir";
 var lastname = "Mohammed";
 
 var fullname =`${firstname} ${lastname}`;
@@ -25,3 +25,14 @@ b= typeof "yasir"=="yasir"
 
 console.log(`It is ${a}`)
 console.log(`It is ${b}`)
+*/
+
+
+var x="Mohammed Yasir Arafath";
+i=9;
+while(i<x.length){
+   console.log(x[i]);
+   i++
+}
+console.log(x.length);
+//How to add another variable with letter y to check the final length
