@@ -2,6 +2,6 @@
 
 - Git
 - Github
-- `add` and `commit`
-- git `push` and `pull`
-- git `remote`
+- add and commit
+- git push and pull
+- git remote
