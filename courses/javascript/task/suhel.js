@@ -9,4 +9,3 @@ var address = "Bapatla"
 // console.log(fullname + " from " + address + " and my skills are: " + skills);
 // `literal value ${identifier}`
 console.log(`${fullname} from ${address} and my skills are ${skills}`)
-
